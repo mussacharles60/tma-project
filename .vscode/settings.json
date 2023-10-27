@@ -1,0 +1,8 @@
+{
+    "html.format.endWithNewline": true,
+    "html.format.unformatted": "",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Default Dark+",
+    "window.autoDetectColorScheme": true,
+    "files.autoSave": "off"
+}
